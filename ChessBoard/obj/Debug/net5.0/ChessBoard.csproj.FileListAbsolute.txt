@@ -1,0 +1,16 @@
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.csproj.AssemblyReference.cache
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.AssemblyInfoInputs.cache
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.AssemblyInfo.cs
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\bin\Debug\net5.0\ChessBoard.exe
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\bin\Debug\net5.0\ChessBoard.deps.json
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\bin\Debug\net5.0\ChessBoard.runtimeconfig.json
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\bin\Debug\net5.0\ChessBoard.runtimeconfig.dev.json
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\bin\Debug\net5.0\ChessBoard.dll
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\bin\Debug\net5.0\ref\ChessBoard.dll
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\bin\Debug\net5.0\ChessBoard.pdb
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.dll
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ref\ChessBoard.dll
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.pdb
+C:\Users\aurom\source\repos\ChessBoard\ChessBoard\obj\Debug\net5.0\ChessBoard.genruntimeconfig.cache
